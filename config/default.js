@@ -3,7 +3,7 @@ const config = {
   port: 3000,
   // 数据库配置
   database: {
-    DATABASE: 'nodesql',
+    DATABASE: 'demosql',
     USERNAME: 'root',
     PASSWORD: '000000',
     PORT: '3306',
